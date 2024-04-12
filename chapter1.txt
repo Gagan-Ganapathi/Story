@@ -1,1 +1,7 @@
+
 Chapter1 to learn git
+git init- used to intilize git inside the working directory
+git add -is used to add files from working directory to staging area
+git commit -m "quote"- is used to add files to the local git reposetory
+git checkout - is used to go to the previous versions of the files
+git status- is used to check the files that are modified but not commited.
